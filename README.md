@@ -6,8 +6,11 @@ An interface is a completely "Abstract class" that is used to group related meth
 (Example: how to write Interface method)
 
 interface Animal {
+
   public void animalSound; // Empty Body
+  
   public void sleep;       //
+  
   }
 *******************
 
