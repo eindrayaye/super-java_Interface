@@ -1,7 +1,9 @@
 # super-java_Interface
 
-Another way to achieve abstraction in Java is the Interface.
-An interface is a completely "Abstract class" that is used to group related methods with empth bodies.
+-Another way to achieve abstraction in Java is the Interface.
+-An interface is a completely "Abstract class" that is used to group related methods with empth bodies.
+-To access the interface method, the interface must be "Implemented" by another class with the implements keyword (Instead of extends)
+-The body of the unterface method is provided by the implement class.
 
 (Example: how to write Interface method)
 
