@@ -8,7 +8,9 @@
 
 -The body of the unterface method is provided by the implement class.
 
+
 (Example: how to write Interface method)
+
 
 interface Animal {
 
