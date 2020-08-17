@@ -1,13 +1,16 @@
 # super-java_Interface
 
 Another way to achieve abstraction in Java is the Interface.
-An interface is a completely "Abstract class" that is used to group related methods with empth bpdies.
+An interface is a completely "Abstract class" that is used to group related methods with empth bodies.
+
 (Example: how to write Interface method)
+
 interface Animal {
   public void animalSound; // Empty Body
   public void sleep;       //
   }
 *******************
+
 In example three .java files
 (1) AccountInfo.java (Parent class)// has 'content' and 'banknam' Methods.
 (2) CurrentAccount.java & SavingAccount.java are child class. Using 'implements' keyword instad of 'extends'
