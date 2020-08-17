@@ -15,5 +15,7 @@ interface Animal {
 *******************
 
 In example three .java files
-(1) AccountInfo.java (Parent class)// has 'content' and 'banknam' Methods.
-(2) CurrentAccount.java & SavingAccount.java are child class. Using 'implements' keyword instad of 'extends'
+
+(1) AccountInfo.java (Parent class) has 'content' and 'banknam' Methods.
+
+(2) CurrentAccount.java & SavingAccount.java are child classes that using 'implements' keyword instad of 'extends'.
